@@ -1,21 +1,4 @@
-// Encoding of this Application is utf-8
-// 编码utf8
-// Gang Callum made it
-// stdc++ = 11
-//
-//
-//
-//
-//
-//
-//        只能使用Windows
-//
-//
-//
-//
-//
-//
-
+// 仅能用于Windows系统
 #include<iostream>//cout、cerr、cin等io操作
 using std::cout;
 using std::cerr;
